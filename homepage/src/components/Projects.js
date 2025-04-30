@@ -1,12 +1,12 @@
 function Projects() {
   return (
     <div>
-      <h2>Capstone Project: HRMS</h2>
+      <h2 className="text-success">Capstone Project: HRMS</h2>
       <div className="row">
         <div className="col-md-6 mb-3">
-          <div className="card">
+          <div className="card border-success">
             <div className="card-body">
-              <h5 className="card-title">
+              <h5 className="card-title text-success">
                 Human Resource Management System (HRMS)
               </h5>
               <p className="card-text">

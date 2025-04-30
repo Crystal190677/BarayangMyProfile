@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div className="text-center">
-      <h1>Welcome to My Profile</h1>
-      <p className="lead">Hi! I'm Crystal Anne Barayang</p>
+      <h1 className="text-success">Welcome to My Profile</h1>
+      <p className="lead text-success">Hi! I'm Crystal Anne Barayang</p>
     </div>
   );
 }
